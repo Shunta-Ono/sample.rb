@@ -14,7 +14,7 @@ for i in 1..i do
   puts "b=#{b}"
 
   puts "計算結果を出力します"
-  
+
   puts "#{a}+#{b}=#{a + b}"
   puts "#{a}-#{b}=#{a - b}"
   puts "#{a}*#{b}=#{a * b}"
